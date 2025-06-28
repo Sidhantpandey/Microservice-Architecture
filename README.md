@@ -12,10 +12,12 @@ cd order-service
 npm install
 npm run start
 
+-Run in seperate terminal 
 cd product-service
 npm install
 npm run start
 
+- Run in seperate terminal
 cd user-servicee
 npm install
 npm run start
