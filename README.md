@@ -11,11 +11,14 @@ git clone <url>
 cd order-service
 npm install
 npm run start
+```
 
 -Run in seperate terminal 
+```bash
 cd product-service
 npm install
 npm run start
+```
 
 - Run in seperate terminal
 cd user-servicee
