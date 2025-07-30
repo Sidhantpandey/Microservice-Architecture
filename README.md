@@ -13,14 +13,14 @@ npm install
 npm run start
 ```
 
-- Run in seperate terminal 
+### 2. Run in seperate terminal 
 ```bash
 cd product-service
 npm install
 npm run start
 ```
 
-- Run in seperate terminal
+### 3. Run in seperate terminal
 ```bash
 cd user-servicee
 npm install
